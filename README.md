@@ -1,6 +1,6 @@
 # Hola, encantado de verte!👋👨🏻‍💻
 
-Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷  Buenos Aires, Argentina 🇦🇷
+Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Aires, Argentina🇦🇷
 
 <img src='https://i.imgur.com/77ghjF2.png' />
 
@@ -10,7 +10,7 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷  Buenos A
 
 ## Quieres contactarme?
 - Puedes mandarme un mail a <a href="mailto:pabloperalta.it@gmail.com">pabloperalta.it@gmail.com</a> 📩
-- Tambien puedes visitar mi LinkedIn <a href="https://www.linkedin.com/in/pablo-peralta-it/">Pablo Peralta</a> 🏓
+- Tambien puedes visitar mi LinkedIn <a href="https://www.linkedin.com/in/pablo-peralta-it/">Pablo Peralta</a> 🙋🏻‍♂️
 
 
 ---
