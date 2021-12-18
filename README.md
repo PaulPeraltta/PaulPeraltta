@@ -24,7 +24,7 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Ai
   <li>Redux</li>
 </ul>
 
-<p>Ademas de que tambien he usado Express, PostgreSQL, Sequelize, API rest entre otras</p>
+<p>Ademas de que tambien he usado Express, PostgreSQL, Sequelize y API Rest, entre otras</p>
 
 
 ## Quieres contactarme?
