@@ -1,6 +1,6 @@
-# Hello, I´m Pablo 
+# Hello, I´m Pablo 👋 😃
 
-<img src='https://i.imgur.com/h6NFoO2.png' />
+<img src='https://i.imgur.com/77ghjF2.png' />
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
