@@ -6,7 +6,8 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Ai
 
 ## About Me
 
-<p>Soy un desarrollador Junior, que desde pequeño quiso ser programador, y hoy despues de haber cursado el Bootcamp de <a href="soyhenry.com">SoyHenry</a> tengo la posibilidad de trabajar de lo que me gusta, gracias por eso HENRY!</p>
+<p>Soy un desarrollador Junior, tengo 23 años, me gustan los videojuegos y amo el futbol, desde que era pequeño siempre quise aprender a programar, y hoy despues de haber cursado el Bootcamp de <a href="soyhenry.com">SoyHenry</a> tengo la posibilidad de poder trabajar de una de las cosas que me gustan, gracias por eso HENRY!
+Actualmente estoy enfocado en Full Stack Developer y tambien en seguir desarrollando las habilidades que he aprendido hasta ahora, pero ademas de eso, quiero seguir ampliando mis conocimientos y seguir creciendo profesionalmente, a continuacion algunas de las cosas aprendidas en el bootcamp :grin:</p>
 
 <p>Algunos de los Lenguajes que aprendi fueron:</p>
 <ul>
