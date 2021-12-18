@@ -1,4 +1,4 @@
-# Hello, I´m Pablo �👨🏻‍💻
+# Hello, I´m Pablo 👋👨🏻‍💻
 
 <img src='https://i.imgur.com/77ghjF2.png' />
 
