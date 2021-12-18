@@ -1,6 +1,10 @@
-# Hello, I´m Pablo 👋👨🏻‍💻
+# Hola, encantado de verte!👋👨🏻‍💻
 
-<img src='https://i.imgur.com/77ghjF2.png' />
+Bienvenido a mi pagina!
+Soy Pablo, Full Stack Developer,
+desde 🇦🇷 Buenos Aires, Argentina 🇦🇷
+
+// <img src='https://i.imgur.com/77ghjF2.png' />
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
