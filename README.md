@@ -4,7 +4,8 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Ai
 
 <img src='https://i.imgur.com/77ghjF2.png' />
 
-<p>Soy un desarrollador Junior, que desde pequeño quiso ser programador, y hoy despues de haber cursado un Bootcamp</p>
+<p>Soy un desarrollador Junior, que desde pequeño quiso ser programador,</p>
+<p>y hoy despues de haber cursado el Bootcamp de <a href="soyhenry.com">SoyHenry</a></p>
 
 Find me around the web 🌎:
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
