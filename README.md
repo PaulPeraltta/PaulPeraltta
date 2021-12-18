@@ -24,6 +24,8 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Ai
   <li>Redux</li>
 </ul>
 
+<p>Ademas de que tambien he usado Express, PostgreSQL, Sequelize, API rest entre otras</p>
+
 
 ## Quieres contactarme?
 - Puedes mandarme un mail a <a href="mailto:pabloperalta.it@gmail.com">pabloperalta.it@gmail.com</a> 📩
