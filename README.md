@@ -33,4 +33,5 @@ Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Ai
 
 
 ---
-⭐️ From [Pablo Peralta](https://github.com/PaulPeralta)
+
+From [Pablo Peralta](https://github.com/PaulPeralta)
