@@ -1,12 +1,10 @@
 # Hola, encantado de verte!👋👨🏻‍💻
 
-Bienvenido a mi pagina!
-Soy Pablo, Full Stack Developer,
-desde 🇦🇷 Buenos Aires, Argentina 🇦🇷
+Bienvenido a mi pagina! Soy Pablo, Full Stack Developer desde 🇦🇷 Buenos Aires, Argentina 🇦🇷
 
-// <img src='https://i.imgur.com/77ghjF2.png' />
+<img src='https://i.imgur.com/77ghjF2.png' />
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+<p>Soy un desarrollador Junior, que desde pequeño quiso ser programador, y hoy despues de haber cursado un Bootcamp</p>
 
 Find me around the web 🌎:
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
